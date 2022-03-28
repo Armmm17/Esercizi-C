@@ -1,0 +1,3 @@
+C:/Users/arman/Documents/PROGRAMAZIONE/C_C++_C#/C/Esericizi personali/ES6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/arman/Documents/PROGRAMAZIONE/C_C++_C#/C/Esericizi personali/ES6/cmake-build-debug/CMakeFiles/ES6.dir
+C:/Users/arman/Documents/PROGRAMAZIONE/C_C++_C#/C/Esericizi personali/ES6/cmake-build-debug/CMakeFiles/edit_cache.dir
