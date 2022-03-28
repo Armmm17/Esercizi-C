@@ -1,3 +1,0 @@
-C:/Users/arman/Documents/PROGRAMAZIONE/C_C++_C#/C/Esericizi personali/ES9/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/arman/Documents/PROGRAMAZIONE/C_C++_C#/C/Esericizi personali/ES9/cmake-build-debug/CMakeFiles/ES9.dir
-C:/Users/arman/Documents/PROGRAMAZIONE/C_C++_C#/C/Esericizi personali/ES9/cmake-build-debug/CMakeFiles/rebuild_cache.dir
