@@ -1,0 +1,3 @@
+C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 07) Riempi array e stampa al contrario/cmake-build-debug/CMakeFiles/ES_07__Riempi_array_e_stampa_al_contrario.dir
+C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 07) Riempi array e stampa al contrario/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 07) Riempi array e stampa al contrario/cmake-build-debug/CMakeFiles/rebuild_cache.dir
