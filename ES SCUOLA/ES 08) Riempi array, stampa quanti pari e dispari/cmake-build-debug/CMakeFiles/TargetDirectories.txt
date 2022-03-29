@@ -1,0 +1,3 @@
+C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 08) Riempi array, stampa quanti pari e dispari/cmake-build-debug/CMakeFiles/ES_08__Riempi_array__stampa_quanti_pari_e_dispari.dir
+C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 08) Riempi array, stampa quanti pari e dispari/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 08) Riempi array, stampa quanti pari e dispari/cmake-build-debug/CMakeFiles/rebuild_cache.dir

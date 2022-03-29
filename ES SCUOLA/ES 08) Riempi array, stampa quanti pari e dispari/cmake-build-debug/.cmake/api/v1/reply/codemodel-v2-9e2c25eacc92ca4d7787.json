@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ES_08__Riempi_array__stampa_quanti_pari_e_dispari",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ES_08__Riempi_array__stampa_quanti_pari_e_dispari::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ES_08__Riempi_array__stampa_quanti_pari_e_dispari-Debug-20a5cea4a29774b9ad68.json",
+					"name" : "ES_08__Riempi_array__stampa_quanti_pari_e_dispari",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 08) Riempi array, stampa quanti pari e dispari/cmake-build-debug",
+		"source" : "C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 08) Riempi array, stampa quanti pari e dispari"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
