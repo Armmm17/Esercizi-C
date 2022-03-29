@@ -1,0 +1,3 @@
+C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 01) Eleva numero1 per il numero2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 01) Eleva numero1 per il numero2/cmake-build-debug/CMakeFiles/ES_01__Eleva_numero1_per_il_numero2.dir
+C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 01) Eleva numero1 per il numero2/cmake-build-debug/CMakeFiles/edit_cache.dir
