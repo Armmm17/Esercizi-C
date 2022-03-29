@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ES_05__Input_2_numeri__somma_prodotto__divisione",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ES_05__Input_2_numeri__somma_prodotto__divisione::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ES_05__Input_2_numeri__somma_prodotto__divisione-Debug-0ccd028c6d792c8857e4.json",
+					"name" : "ES_05__Input_2_numeri__somma_prodotto__divisione",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 05) Input 2 numeri, somma prodotto, divisione/cmake-build-debug",
+		"source" : "C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 05) Input 2 numeri, somma prodotto, divisione"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

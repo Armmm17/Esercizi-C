@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="ES_05__Input_2_numeri__somma_1_pari__prodotto_2_pari__divisione_0pari" targetName="ES_05__Input_2_numeri__somma_1_pari__prodotto_2_pari__divisione_0pari" />
+      <config projectName="ES_05__Input_2_numeri__somma_prodotto__divisione" targetName="ES_05__Input_2_numeri__somma_prodotto__divisione" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3da3d6e-0d0d-48b1-a32f-9cc1fb041697" name="Changes" comment="" />
+    <list default="true" id="07d198f7-0e35-49db-a3fb-0bdbb350c1ba" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +29,7 @@
     <option name="majorVersion" value="2021" />
     <option name="minorVersion" value="3.4" />
   </component>
-  <component name="ProjectId" id="274hzcDhucBa5DC8B8tLFDJ6iV3" />
+  <component name="ProjectId" id="274jGrb9oGrmNjQmOJFcFz75zW1" />
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -43,7 +43,7 @@
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ES_05__Input_2_numeri__somma_1_pari__prodotto_2_pari__divisione_0pari" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ES_05__Input_2_numeri__somma_1_pari__prodotto_2_pari__divisione_0pari" TARGET_NAME="ES_05__Input_2_numeri__somma_1_pari__prodotto_2_pari__divisione_0pari" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ES_05__Input_2_numeri__somma_1_pari__prodotto_2_pari__divisione_0pari" RUN_TARGET_NAME="ES_05__Input_2_numeri__somma_1_pari__prodotto_2_pari__divisione_0pari">
+    <configuration name="ES_05__Input_2_numeri__somma_prodotto__divisione" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ES_05__Input_2_numeri__somma_prodotto__divisione" TARGET_NAME="ES_05__Input_2_numeri__somma_prodotto__divisione" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ES_05__Input_2_numeri__somma_prodotto__divisione" RUN_TARGET_NAME="ES_05__Input_2_numeri__somma_prodotto__divisione">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -52,12 +52,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f3da3d6e-0d0d-48b1-a32f-9cc1fb041697" name="Changes" comment="" />
-      <created>1648585528570</created>
+      <changelist id="07d198f7-0e35-49db-a3fb-0bdbb350c1ba" name="Changes" comment="" />
+      <created>1648586159203</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1648585528570</updated>
-      <workItem from="1648585529823" duration="18000" />
+      <updated>1648586159203</updated>
+      <workItem from="1648586160515" duration="7000" />
     </task>
     <servers />
   </component>

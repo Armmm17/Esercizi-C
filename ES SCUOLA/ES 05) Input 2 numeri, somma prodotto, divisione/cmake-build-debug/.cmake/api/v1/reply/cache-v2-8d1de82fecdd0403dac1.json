@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 05) Input 2 numeri, somma 1 pari, prodotto 2 pari, divisione 0pari/cmake-build-debug"
+			"value" : "c:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 05) Input 2 numeri, somma prodotto, divisione/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -479,7 +479,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 05) Input 2 numeri, somma 1 pari, prodotto 2 pari, divisione 0pari"
+			"value" : "C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 05) Input 2 numeri, somma prodotto, divisione"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -491,7 +491,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/ES_05__Input_2_numeri__somma_1_pari__prodotto_2_pari__divisione_0pari"
+			"value" : "C:/Program Files (x86)/ES_05__Input_2_numeri__somma_prodotto__divisione"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -707,7 +707,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "ES_05__Input_2_numeri__somma_1_pari__prodotto_2_pari__divisione_0pari"
+			"value" : "ES_05__Input_2_numeri__somma_prodotto__divisione"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1086,7 +1086,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "ES_05__Input_2_numeri__somma_1_pari__prodotto_2_pari__divisione_0pari_BINARY_DIR",
+			"name" : "ES_05__Input_2_numeri__somma_prodotto__divisione_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1095,10 +1095,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 05) Input 2 numeri, somma 1 pari, prodotto 2 pari, divisione 0pari/cmake-build-debug"
+			"value" : "C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 05) Input 2 numeri, somma prodotto, divisione/cmake-build-debug"
 		},
 		{
-			"name" : "ES_05__Input_2_numeri__somma_1_pari__prodotto_2_pari__divisione_0pari_IS_TOP_LEVEL",
+			"name" : "ES_05__Input_2_numeri__somma_prodotto__divisione_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1110,7 +1110,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "ES_05__Input_2_numeri__somma_1_pari__prodotto_2_pari__divisione_0pari_SOURCE_DIR",
+			"name" : "ES_05__Input_2_numeri__somma_prodotto__divisione_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1119,7 +1119,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 05) Input 2 numeri, somma 1 pari, prodotto 2 pari, divisione 0pari"
+			"value" : "C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 05) Input 2 numeri, somma prodotto, divisione"
 		}
 	],
 	"kind" : "cache",
