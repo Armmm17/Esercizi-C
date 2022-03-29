@@ -1,0 +1,3 @@
+C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 04) Controllo numero + stampa/cmake-build-debug/CMakeFiles/ES_04__Controllo_numero___stampa.dir
+C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 04) Controllo numero + stampa/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 04) Controllo numero + stampa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
