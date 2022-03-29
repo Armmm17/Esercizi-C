@@ -1,0 +1,3 @@
+C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 06) Input voti in array, determina maggiore, minore e media/cmake-build-debug/CMakeFiles/ES_06__Input_voti_in_array__determina_maggiore__minore_e_media.dir
+C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 06) Input voti in array, determina maggiore, minore e media/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 06) Input voti in array, determina maggiore, minore e media/cmake-build-debug/CMakeFiles/rebuild_cache.dir
