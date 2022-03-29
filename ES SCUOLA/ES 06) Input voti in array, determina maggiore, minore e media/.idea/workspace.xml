@@ -55,15 +55,10 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager">
     <configuration name="ES_06__Input_voti_in_array__determina_maggiore__minore_e_media" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ES_06__Input_voti_in_array__determina_maggiore__minore_e_media" TARGET_NAME="ES_06__Input_voti_in_array__determina_maggiore__minore_e_media" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ES_06__Input_voti_in_array__determina_maggiore__minore_e_media" RUN_TARGET_NAME="ES_06__Input_voti_in_array__determina_maggiore__minore_e_media">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -79,6 +74,7 @@
       <updated>1648575225897</updated>
       <workItem from="1648575227690" duration="549000" />
       <workItem from="1648575792808" duration="870000" />
+      <workItem from="1648583550884" duration="1566000" />
     </task>
     <servers />
   </component>
