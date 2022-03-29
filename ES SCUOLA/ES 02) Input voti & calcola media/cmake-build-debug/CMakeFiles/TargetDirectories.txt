@@ -1,0 +1,3 @@
+C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 02) Input voti & calcola media/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 02) Input voti & calcola media/cmake-build-debug/CMakeFiles/ES_02__Input_voti___calcola_media.dir
+C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 02) Input voti & calcola media/cmake-build-debug/CMakeFiles/rebuild_cache.dir

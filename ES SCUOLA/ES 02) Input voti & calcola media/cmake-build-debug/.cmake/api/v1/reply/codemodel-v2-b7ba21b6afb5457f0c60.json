@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ES_02__Input_voti___calcola_media",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ES_02__Input_voti___calcola_media::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ES_02__Input_voti___calcola_media-Debug-c1187c68202f39d52817.json",
+					"name" : "ES_02__Input_voti___calcola_media",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 02) Input voti & calcola media/cmake-build-debug",
+		"source" : "C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 02) Input voti & calcola media"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
