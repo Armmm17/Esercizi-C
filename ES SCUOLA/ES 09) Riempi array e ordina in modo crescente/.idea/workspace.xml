@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="ES_08__Riempi_array__stampa_quanti_pari_e_dispari" targetName="ES_08__Riempi_array__stampa_quanti_pari_e_dispari" />
+      <config projectName="ES_09__Riempi_array_e_ordina_in_modo_crescente" targetName="ES_09__Riempi_array_e_ordina_in_modo_crescente" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +14,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b314dccd-3e4f-4720-b806-c4282d4909c2" name="Changes" comment="" />
+    <list default="true" id="3abe9449-f3b7-4b3d-8e67-921a68ad1e89" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,21 +24,34 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
     <option name="majorVersion" value="2021" />
     <option name="minorVersion" value="3.4" />
   </component>
-  <component name="ProjectId" id="274mYLWtaf72iGurA8T1d4BYwJv" />
+  <component name="ProjectId" id="27Ch1quhgB2ZLGNu5KjNKtQS9Q1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="cmake.loaded.for.project" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager">
-    <configuration name="ES_08__Riempi_array__stampa_quanti_pari_e_dispari" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ES_08__Riempi_array__stampa_quanti_pari_e_dispari" TARGET_NAME="ES_08__Riempi_array__stampa_quanti_pari_e_dispari" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ES_08__Riempi_array__stampa_quanti_pari_e_dispari" RUN_TARGET_NAME="ES_08__Riempi_array__stampa_quanti_pari_e_dispari">
+    <configuration name="ES_09__Riempi_array_e_ordina_in_modo_crescente" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ES_09__Riempi_array_e_ordina_in_modo_crescente" TARGET_NAME="ES_09__Riempi_array_e_ordina_in_modo_crescente" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ES_09__Riempi_array_e_ordina_in_modo_crescente" RUN_TARGET_NAME="ES_09__Riempi_array_e_ordina_in_modo_crescente">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -49,13 +65,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b314dccd-3e4f-4720-b806-c4282d4909c2" name="Changes" comment="" />
-      <created>1648587778851</created>
+      <changelist id="3abe9449-f3b7-4b3d-8e67-921a68ad1e89" name="Changes" comment="" />
+      <created>1648829764669</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1648587778851</updated>
-      <workItem from="1648587780191" duration="17000" />
-      <workItem from="1648829725929" duration="10000" />
+      <updated>1648829764669</updated>
+      <workItem from="1648829766751" duration="345000" />
+      <workItem from="1648904820222" duration="965000" />
     </task>
     <servers />
   </component>

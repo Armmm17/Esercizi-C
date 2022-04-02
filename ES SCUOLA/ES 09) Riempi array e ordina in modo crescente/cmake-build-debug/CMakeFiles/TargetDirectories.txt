@@ -1,0 +1,3 @@
+C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 09) Riempi array e ordina in modo crescente/cmake-build-debug/CMakeFiles/ES_09__Riempi_array_e_ordina_in_modo_crescente.dir
+C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 09) Riempi array e ordina in modo crescente/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 09) Riempi array e ordina in modo crescente/cmake-build-debug/CMakeFiles/rebuild_cache.dir
