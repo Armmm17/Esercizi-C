@@ -1,0 +1,3 @@
+C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 10) Riempi 2 array(10), crea vettore all value ordered/cmake-build-debug/CMakeFiles/ES_10__Riempi_2_array_10___crea_vettore_all_value_ordered.dir
+C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 10) Riempi 2 array(10), crea vettore all value ordered/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 10) Riempi 2 array(10), crea vettore all value ordered/cmake-build-debug/CMakeFiles/rebuild_cache.dir
