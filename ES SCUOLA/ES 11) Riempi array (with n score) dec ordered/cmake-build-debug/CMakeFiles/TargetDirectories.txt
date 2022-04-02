@@ -1,0 +1,3 @@
+C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 11) Riempi array (with n score) dec ordered/cmake-build-debug/CMakeFiles/ES_11__Riempi_array__with_n_score__dec_ordered.dir
+C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 11) Riempi array (with n score) dec ordered/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 11) Riempi array (with n score) dec ordered/cmake-build-debug/CMakeFiles/rebuild_cache.dir
