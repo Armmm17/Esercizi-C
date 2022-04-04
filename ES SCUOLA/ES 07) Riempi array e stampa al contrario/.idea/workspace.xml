@@ -42,14 +42,15 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+    <configuration name="ES_07__Riempi_array_e_stampa_al_contrario" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ES_07__Riempi_array_e_stampa_al_contrario" TARGET_NAME="ES_07__Riempi_array_e_stampa_al_contrario" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ES_07__Riempi_array_e_stampa_al_contrario" RUN_TARGET_NAME="ES_07__Riempi_array_e_stampa_al_contrario">
       <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ES_07__Riempi_array_e_stampa_al_contrario" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ES_07__Riempi_array_e_stampa_al_contrario" TARGET_NAME="ES_07__Riempi_array_e_stampa_al_contrario" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ES_07__Riempi_array_e_stampa_al_contrario" RUN_TARGET_NAME="ES_07__Riempi_array_e_stampa_al_contrario">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -64,6 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1648586336818</updated>
       <workItem from="1648586338066" duration="820000" />
+      <workItem from="1649078983126" duration="365000" />
     </task>
     <servers />
   </component>

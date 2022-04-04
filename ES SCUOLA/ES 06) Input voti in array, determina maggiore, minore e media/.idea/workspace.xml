@@ -51,6 +51,7 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ES 07) Riempi array e stampa al contrario" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -75,6 +76,7 @@
       <workItem from="1648575227690" duration="549000" />
       <workItem from="1648575792808" duration="870000" />
       <workItem from="1648583550884" duration="1773000" />
+      <workItem from="1649078454065" duration="523000" />
     </task>
     <servers />
   </component>
