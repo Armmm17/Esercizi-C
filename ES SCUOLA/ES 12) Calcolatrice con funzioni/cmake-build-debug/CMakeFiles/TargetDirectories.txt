@@ -1,0 +1,3 @@
+C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 12) Calcolatrice con funzioni/cmake-build-debug/CMakeFiles/ES_12__Calcolatrice_con_funzioni.dir
+C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 12) Calcolatrice con funzioni/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 12) Calcolatrice con funzioni/cmake-build-debug/CMakeFiles/rebuild_cache.dir

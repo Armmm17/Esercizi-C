@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ES_12__Calcolatrice_con_funzioni",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ES_12__Calcolatrice_con_funzioni::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ES_12__Calcolatrice_con_funzioni-Debug-1324702bdf1711eb34da.json",
+					"name" : "ES_12__Calcolatrice_con_funzioni",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 12) Calcolatrice con funzioni/cmake-build-debug",
+		"source" : "C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 12) Calcolatrice con funzioni"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
