@@ -51,12 +51,12 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+    <configuration name="ES_12__Calcolatrice_con_funzioni" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ES_12__Calcolatrice_con_funzioni" TARGET_NAME="ES_12__Calcolatrice_con_funzioni" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ES_12__Calcolatrice_con_funzioni" RUN_TARGET_NAME="ES_12__Calcolatrice_con_funzioni">
       <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ES_12__Calcolatrice_con_funzioni" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ES_12__Calcolatrice_con_funzioni" TARGET_NAME="ES_12__Calcolatrice_con_funzioni" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ES_12__Calcolatrice_con_funzioni" RUN_TARGET_NAME="ES_12__Calcolatrice_con_funzioni">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -70,7 +70,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1649270885917</updated>
-      <workItem from="1649270888153" duration="3241000" />
+      <workItem from="1649270888153" duration="3357000" />
+      <workItem from="1649335468042" duration="1506000" />
     </task>
     <servers />
   </component>
