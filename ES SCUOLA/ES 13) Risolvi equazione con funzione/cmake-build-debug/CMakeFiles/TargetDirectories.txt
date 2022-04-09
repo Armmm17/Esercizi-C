@@ -1,0 +1,3 @@
+C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 13) Risolvi equazione con funzione/cmake-build-debug/CMakeFiles/ES_13__Risolvi_equazione_con_funzione.dir
+C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 13) Risolvi equazione con funzione/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/arman/Documents/GitHub/Esercizi-C/ES SCUOLA/ES 13) Risolvi equazione con funzione/cmake-build-debug/CMakeFiles/rebuild_cache.dir

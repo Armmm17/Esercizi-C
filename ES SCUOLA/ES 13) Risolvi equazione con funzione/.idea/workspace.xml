@@ -5,7 +5,7 @@
   </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="ES_12__Calcolatrice_con_funzioni" targetName="ES_12__Calcolatrice_con_funzioni" />
+      <config projectName="ES_13__Risolvi_equazione_con_funzione" targetName="ES_13__Risolvi_equazione_con_funzione" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -14,7 +14,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0894b416-c71a-4b4c-a87d-e87e4307dbdf" name="Changes" comment="" />
+    <list default="true" id="0fdc34a9-9512-45d6-b522-ec2a123c5d02" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +32,7 @@
     <option name="majorVersion" value="2021" />
     <option name="minorVersion" value="3.4" />
   </component>
-  <component name="ProjectId" id="27R78ZK82tzlDYwc65GyFQjN6j1" />
+  <component name="ProjectId" id="27TIMHRlznMkEf4I2p7DMWRjMew" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -51,7 +51,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager">
-    <configuration name="ES_12__Calcolatrice_con_funzioni" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ES_12__Calcolatrice_con_funzioni" TARGET_NAME="ES_12__Calcolatrice_con_funzioni" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ES_12__Calcolatrice_con_funzioni" RUN_TARGET_NAME="ES_12__Calcolatrice_con_funzioni">
+    <configuration name="ES_13__Risolvi_equazione_con_funzione" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ES_13__Risolvi_equazione_con_funzione" TARGET_NAME="ES_13__Risolvi_equazione_con_funzione" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ES_13__Risolvi_equazione_con_funzione" RUN_TARGET_NAME="ES_13__Risolvi_equazione_con_funzione">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -65,13 +65,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0894b416-c71a-4b4c-a87d-e87e4307dbdf" name="Changes" comment="" />
-      <created>1649270885917</created>
+      <changelist id="0fdc34a9-9512-45d6-b522-ec2a123c5d02" name="Changes" comment="" />
+      <created>1649337599310</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1649270885917</updated>
-      <workItem from="1649270888153" duration="3357000" />
-      <workItem from="1649335468042" duration="2114000" />
+      <updated>1649337599310</updated>
+      <workItem from="1649337601135" duration="3072000" />
+      <workItem from="1649355343689" duration="280000" />
     </task>
     <servers />
   </component>
